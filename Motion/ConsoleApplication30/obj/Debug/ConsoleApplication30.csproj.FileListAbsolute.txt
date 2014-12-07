@@ -1,0 +1,12 @@
+D:\Microsoft Visual Studio 12.0\VC#\VC# Workspace\ConsoleApplication30\ConsoleApplication30\bin\Debug\ConsoleApplication30.exe.config
+D:\Microsoft Visual Studio 12.0\VC#\VC# Workspace\ConsoleApplication30\ConsoleApplication30\bin\Debug\ConsoleApplication30.exe
+D:\Microsoft Visual Studio 12.0\VC#\VC# Workspace\ConsoleApplication30\ConsoleApplication30\bin\Debug\ConsoleApplication30.pdb
+D:\Microsoft Visual Studio 12.0\VC#\VC# Workspace\ConsoleApplication30\ConsoleApplication30\obj\Debug\ConsoleApplication30.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio 12.0\VC#\VC# Workspace\ConsoleApplication30\ConsoleApplication30\obj\Debug\ConsoleApplication30.exe
+D:\Microsoft Visual Studio 12.0\VC#\VC# Workspace\ConsoleApplication30\ConsoleApplication30\obj\Debug\ConsoleApplication30.pdb
+D:\BILAL UNI\Miss ayesha\lab task 5\Motion\ConsoleApplication30\bin\Debug\ConsoleApplication30.exe.config
+D:\BILAL UNI\Miss ayesha\lab task 5\Motion\ConsoleApplication30\obj\Debug\ConsoleApplication30.exe
+D:\BILAL UNI\Miss ayesha\lab task 5\Motion\ConsoleApplication30\obj\Debug\ConsoleApplication30.pdb
+D:\BILAL UNI\Miss ayesha\lab task 5\Motion\ConsoleApplication30\bin\Debug\ConsoleApplication30.exe
+D:\BILAL UNI\Miss ayesha\lab task 5\Motion\ConsoleApplication30\bin\Debug\ConsoleApplication30.pdb
+D:\BILAL UNI\Miss ayesha\lab task 5\Motion\ConsoleApplication30\obj\Debug\ConsoleApplication30.csprojResolveAssemblyReference.cache
